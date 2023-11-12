@@ -1,0 +1,33 @@
+body {
+  margin: 80px;
+}
+.main {
+  margin: 10px;
+  /* width: 400px; */
+  background-color: lightyellow;
+  box-shadow: 10px 10px 10px black;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.sub {
+  margin: 20px;
+  height: 550px;
+  width: 270px;
+  border: solid red 3px;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 10px 10px 10px black;
+}
+
+h4 {
+  display: inline;
+  /* text-align: center; */
+  margin-left: 20px;
+  background-color: orange;
+  padding: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-weight: lighter;
+}
